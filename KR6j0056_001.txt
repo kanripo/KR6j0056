@@ -1,26 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:50.784239
+#+DATE: 2015-08-30 20:24:52.717047
 #+TITLE: 一切祕密最上名義大教王儀軌
 #+PROPERTY: CBETA_ID T18n0888
 #+PROPERTY: ID KR6j0056
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 888
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0056_T_000-0536c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0056_T_001-0536c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.888¶
-
- 一切祕密最上名義大教王儀軌¶
+No. 888¶
+一切祕密最上名義大教王儀軌¶
 卷上¶
 
 此於瑜伽大部中略出。¶
 ¶
-西天譯經三藏傳法大師¶
+西天譯經三藏傳法大師賜紫沙門臣施護奉　詔譯傳法大師¶
 賜紫沙門臣施護奉　詔譯¶
 
 歸命一切佛。¶

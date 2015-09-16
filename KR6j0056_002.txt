@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:50.813331
+#+DATE: 2015-08-30 20:24:52.753726
 #+TITLE: 一切祕密最上名義大教王儀軌
 #+PROPERTY: CBETA_ID T18n0888
 #+PROPERTY: ID KR6j0056
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 888
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0056_T_000-0536c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0056_T_002-0539a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 一切祕密最上名義大教王儀軌¶
+一切祕密最上名義大教王儀軌¶
 卷下¶
 ¶
 西天譯經三藏傳法大師¶
@@ -335,7 +334,7 @@
 　東方地相大青色
 　南方黃色如儀軌¶
 　西方赤色隨所應
-　北方曼𡁠瑟吒色¶
+　北方曼[口*爾]瑟吒色¶
 　諸處皆用尾提相
 　唯門中道勿應用¶
 　壇中毘盧遮那佛

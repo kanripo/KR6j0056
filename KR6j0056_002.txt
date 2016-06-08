@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:50.813331
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:07
 #+TITLE: 一切祕密最上名義大教王儀軌
 #+PROPERTY: CBETA_ID T18n0888
 #+PROPERTY: ID KR6j0056
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 888
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0056_T_000-0536c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0056_T_002-0539a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 一切祕密最上名義大教王儀軌¶
+一切祕密最上名義大教王儀軌¶
 卷下¶
 ¶
 西天譯經三藏傳法大師¶
@@ -406,9 +405,9 @@
 　身諸相分皆圓滿
 　明妃自在嬉戲尊¶
 　手持黃優鉢羅華
-　一切眾生悉歸命
+　一切眾生悉歸命」
 #+END_VERSE
-」¶
+¶
 
 如是四菩薩彼彼心大明。¶
 
